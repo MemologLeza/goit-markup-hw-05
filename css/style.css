@@ -201,6 +201,9 @@ button {
   position: absolute;
   bottom: 0;
 }
+.current {
+  color: var(--ocean-cl);
+}
 /* hero-section */
 .hero {
   /* background-color: var(--navy-blue-cl);
